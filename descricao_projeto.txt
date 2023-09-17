@@ -1,0 +1,19 @@
+biblioteca
+
+sistema de biblioteca
+https://www.youtube.com/watch?v=FnTWLgY6w_A&list=PLxNM4ef1BpxiMmvFAseM1SP9JxgRyQUfN
+
+5 paginas
+    1 - tela de login
+    2 home - informçaoes da biblioteca
+    3 - livros
+    4 - pessoas
+    5 - emprestimos
+
+
+- pessoa / leitor
+nome
+cpf
+telefone
+endereço
+observaçao
