@@ -10,7 +10,7 @@
 
     <title>Sistema Biblioteca</title>
 </head>
-<body>
+<body class="bg-gray-700">
     <head>
         
     </head>
@@ -117,9 +117,6 @@
     <div class="p-4 sm:ml-64">
         @yield('content')
     </div>
-    <footer>
-        
-    </footer>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.8.1/flowbite.min.js"></script>
     <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.js"></script>
